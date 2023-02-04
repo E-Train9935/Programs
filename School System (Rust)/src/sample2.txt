@@ -1,0 +1,5 @@
+ethian, 80.0, 85
+alex, 60, 65.0
+alberto, 90, 83.2
+joey, 100.0, 27.9
+phoebe, 30, 48.5

@@ -1,0 +1,7 @@
+You are a ball that wants to go home and you stumble on to this tunnel said to teleport you wherever you want to go if you make it through in one piece. However, there are tons of obstacles of you must avoid. You only have one life per try.
+
+Controls: (You may only move left and right)
+A = Left
+D = Right
+
+Good luck and have fun!
